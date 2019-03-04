@@ -1,0 +1,43 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+<dimen name="map_activity_option">40dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="app_home_title">45dp</dimen>
+    <dimen name="app_title_text_size">20sp</dimen>
+    <dimen name="app_title_img_back">30dp</dimen>
+    <dimen name="app_title_img_refresh">30dp</dimen>
+    <dimen name="app_item_list">60dp</dimen>
+    <dimen name="main_bottom_tab_img">25dp</dimen>
+    <dimen name="app_setting_item">50dp</dimen>
+    <dimen name="main_grid_txt_fontsize">16sp</dimen>
+    <dimen name="main_grid_txt_height">28dp</dimen>
+    <dimen name="layer_group_img_btn_size">40dp</dimen>
+    <dimen name="layer_group_text_size">20sp</dimen>
+    <dimen name="layer_group_text_height">40dp</dimen>
+    <dimen name="ghsp_map_title_height">45dp</dimen>
+    <dimen name="ghsp_map_title_text_size">20sp</dimen>
+    <dimen name="ghsp_map_s_title_width">150dp</dimen>
+    <dimen name="ghsp_map_s_title_height">45dp</dimen>
+    <dimen name="ghsp_map_s_text_size">20sp</dimen>
+    <dimen name="app_lst_item_title_text_size">20sp</dimen>
+    <dimen name="app_lst_item_title_s_text_size">12sp</dimen>
+    <dimen name="map_left_llt">320dp</dimen>
+    <dimen name="main_menu_height">400dp</dimen>
+    <dimen name="main_menu_title_height">60dp</dimen>
+    <dimen name="main_menu_item_height">170dp</dimen>
+    <dimen name="main_table_item_img_size">100dp</dimen>
+    <dimen name="main_table_feature_info_txt_size">16sp</dimen>
+    <dimen name="map_left_menu_width">50dp</dimen>
+    <dimen name="map_img_btn_size">40dp</dimen>
+    <dimen name="main_table_item_img_width_size1">110dp</dimen>
+    <dimen name="main_table_item_img_height_size1">110dp</dimen>
+    <dimen name="app_title">60dp</dimen>
+    <dimen name="main_menu_left">200dp</dimen>
+    <dimen name="main_menu_width">440dp</dimen>
+    <dimen name="main_title_height">100dp</dimen>
+        <dimen name="app_item_list_height">100dp</dimen>
+    <dimen name="app_item_list_img">60dp</dimen>
+    <dimen name="app_item_list_img_margin">10dp</dimen>
+</resources>
